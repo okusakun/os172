@@ -1,0 +1,5 @@
+task description
+
+in this weekly task, we got a lesson about how to operate putty and connect it to github(commit, pull, push).
+we also learn how to create, edit, delete files and folders.
+we can edit the file ,which is uploaded to github by putty, by using browser
