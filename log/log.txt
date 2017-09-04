@@ -1,0 +1,4 @@
+w01-170904-13-PS-About: doing lab01 clone git Repository
+w01-170904-14-PS-About: doing lab01 intro to CLI
+w01-170904-20-PS-About: doing lab01 intro to scripting
+w01-170904-21-LR-About: reading slide week-01-protection-security.pdf
