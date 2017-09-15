@@ -3,3 +3,4 @@ w02-170912-07-PS-About: doing lab02 privacy, encryption and digital signature us
 w02-170912-08-PS-About: doing lab02 intro to C
 w02-170912-21-PS-About: doing lab02 back to privacy, encryption, etc
 w02-170912-21-LS-Watching video: software licenses
+w02-170915-22-LS-watching video:copyright trademark patents
