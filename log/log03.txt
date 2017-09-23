@@ -1,0 +1,5 @@
+w03-170921-20-PS-About: doing lab03
+w03-170921-21-LR-About: reading slide week-03-processes-thread.pdf
+w03-170921-21-LR-About: reading WEEK03-OS-Boot-Load-Init
+w03-170923-14-PS-About: doing lab03 finishing
+w03-170923-15-LR-About: Computer Software: Computer Boot Process(youtube)
