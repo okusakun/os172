@@ -1,0 +1,4 @@
+w04-170925-16-PS-About: doing lab04 session
+w04-170927-20-PS-About: finishing lab04 session
+w04-170927-20-LR-About: reading bahan ajar lama slide8
+
