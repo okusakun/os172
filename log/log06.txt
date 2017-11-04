@@ -1,0 +1,2 @@
+w06-171102-20-LR-About: googling webs about fork()
+w06-171104-06-PS-About: doing lab06 session
