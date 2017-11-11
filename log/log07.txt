@@ -1,0 +1,2 @@
+w07-171109-19-LR-About: googling and youtube about multithreading
+w07-171111-14-PS-About: finishing lab
