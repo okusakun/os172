@@ -1,0 +1,2 @@
+w08-171116-08-LC-About: Slide scheduling & network sockets programming (OLD05)
+w08-171116-09-PS-About: finishing lab08
